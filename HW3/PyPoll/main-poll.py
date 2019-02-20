@@ -1,10 +1,6 @@
 #PyPoll poll Analysis, Kevin Beygi -021919
 import csv
 from collections import Counter
-#import datetime
-#import datetime as DT
-#from datetime import datetime
-#read from the budget_data file and generate two lists: dates and PLs(profit/loss)
 with open('election_data.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     id = []
