@@ -1,4 +1,5 @@
-#PyBank financial Analysis, Kevin Beygi -021919
+# PyBank financial Analysis, 
+# MMB -021919
 import csv
 #import datetime
 #import datetime as DT
