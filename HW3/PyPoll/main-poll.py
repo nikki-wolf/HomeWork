@@ -1,4 +1,5 @@
-#PyPoll poll Analysis, Kevin Beygi -021919
+# PyPoll poll Analysis, 
+# MMB -021919
 import csv
 from collections import Counter
 with open('election_data.csv') as csvfile:
