@@ -1,0 +1,1392 @@
+
+
+------------------------ Paragraph # 1 -----------------------------
+
+# 1 : Apprixmate Word Count:  88
+# 1 : Apprixmate Sentence Count: 3
+# 1 : Average Letter Count: 4.7
+# 1 : Average Sentence Length: 29.3
+
+
+------------------------ Paragraph # 2 -----------------------------
+
+# 2 : Apprixmate Word Count:  63
+# 2 : Apprixmate Sentence Count: 2
+# 2 : Average Letter Count: 5.4
+# 2 : Average Sentence Length: 31.5
+
+
+------------------------ Paragraph # 3 -----------------------------
+
+# 3 : Apprixmate Word Count:  103
+# 3 : Apprixmate Sentence Count: 9
+# 3 : Average Letter Count: 4.5
+# 3 : Average Sentence Length: 11.4
+
+
+------------------------ Paragraph # 4 -----------------------------
+
+# 4 : Apprixmate Word Count:  41
+# 4 : Apprixmate Sentence Count: 1
+# 4 : Average Letter Count: 5.5
+# 4 : Average Sentence Length: 41.0
+
+
+------------------------ Paragraph # 5 -----------------------------
+
+# 5 : Apprixmate Word Count:  5
+# 5 : Apprixmate Sentence Count: 2
+# 5 : Average Letter Count: 4.4
+# 5 : Average Sentence Length: 2.5
+
+
+------------------------ Paragraph # 6 -----------------------------
+
+# 6 : Apprixmate Word Count:  31
+# 6 : Apprixmate Sentence Count: 1
+# 6 : Average Letter Count: 5.4
+# 6 : Average Sentence Length: 31.0
+
+
+------------------------ Paragraph # 7 -----------------------------
+
+# 7 : Apprixmate Word Count:  47
+# 7 : Apprixmate Sentence Count: 5
+# 7 : Average Letter Count: 4.2
+# 7 : Average Sentence Length: 9.4
+
+
+------------------------ Paragraph # 8 -----------------------------
+
+# 8 : Apprixmate Word Count:  66
+# 8 : Apprixmate Sentence Count: 5
+# 8 : Average Letter Count: 4.2
+# 8 : Average Sentence Length: 13.2
+
+
+------------------------ Paragraph # 9 -----------------------------
+
+# 9 : Apprixmate Word Count:  41
+# 9 : Apprixmate Sentence Count: 2
+# 9 : Average Letter Count: 4.9
+# 9 : Average Sentence Length: 20.5
+
+
+------------------------ Paragraph # 10 -----------------------------
+
+# 10 : Apprixmate Word Count:  67
+# 10 : Apprixmate Sentence Count: 4
+# 10 : Average Letter Count: 4.6
+# 10 : Average Sentence Length: 16.8
+
+
+------------------------ Paragraph # 11 -----------------------------
+
+# 11 : Apprixmate Word Count:  4
+# 11 : Apprixmate Sentence Count: 1
+# 11 : Average Letter Count: 4.8
+# 11 : Average Sentence Length: 4.0
+
+
+------------------------ Paragraph # 12 -----------------------------
+
+# 12 : Apprixmate Word Count:  46
+# 12 : Apprixmate Sentence Count: 3
+# 12 : Average Letter Count: 4.2
+# 12 : Average Sentence Length: 15.3
+
+
+------------------------ Paragraph # 13 -----------------------------
+
+# 13 : Apprixmate Word Count:  38
+# 13 : Apprixmate Sentence Count: 5
+# 13 : Average Letter Count: 4.7
+# 13 : Average Sentence Length: 7.6
+
+
+------------------------ Paragraph # 14 -----------------------------
+
+# 14 : Apprixmate Word Count:  36
+# 14 : Apprixmate Sentence Count: 5
+# 14 : Average Letter Count: 4.2
+# 14 : Average Sentence Length: 7.2
+
+
+------------------------ Paragraph # 15 -----------------------------
+
+# 15 : Apprixmate Word Count:  51
+# 15 : Apprixmate Sentence Count: 3
+# 15 : Average Letter Count: 4.8
+# 15 : Average Sentence Length: 17.0
+
+
+------------------------ Paragraph # 16 -----------------------------
+
+# 16 : Apprixmate Word Count:  34
+# 16 : Apprixmate Sentence Count: 4
+# 16 : Average Letter Count: 4.9
+# 16 : Average Sentence Length: 8.5
+
+
+------------------------ Paragraph # 17 -----------------------------
+
+# 17 : Apprixmate Word Count:  14
+# 17 : Apprixmate Sentence Count: 1
+# 17 : Average Letter Count: 4.0
+# 17 : Average Sentence Length: 14.0
+
+
+------------------------ Paragraph # 18 -----------------------------
+
+# 18 : Apprixmate Word Count:  8
+# 18 : Apprixmate Sentence Count: 1
+# 18 : Average Letter Count: 4.9
+# 18 : Average Sentence Length: 8.0
+
+
+------------------------ Paragraph # 19 -----------------------------
+
+# 19 : Apprixmate Word Count:  3
+# 19 : Apprixmate Sentence Count: 1
+# 19 : Average Letter Count: 5.3
+# 19 : Average Sentence Length: 3.0
+
+
+------------------------ Paragraph # 20 -----------------------------
+
+# 20 : Apprixmate Word Count:  8
+# 20 : Apprixmate Sentence Count: 1
+# 20 : Average Letter Count: 3.8
+# 20 : Average Sentence Length: 8.0
+
+
+------------------------ Paragraph # 21 -----------------------------
+
+# 21 : Apprixmate Word Count:  17
+# 21 : Apprixmate Sentence Count: 2
+# 21 : Average Letter Count: 4.2
+# 21 : Average Sentence Length: 8.5
+
+
+------------------------ Paragraph # 22 -----------------------------
+
+# 22 : Apprixmate Word Count:  5
+# 22 : Apprixmate Sentence Count: 0
+# 22 : Average Letter Count: 4.4
+# 22 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 23 -----------------------------
+
+# 23 : Apprixmate Word Count:  1
+# 23 : Apprixmate Sentence Count: 0
+# 23 : Average Letter Count: 5.0
+# 23 : Average Sentence Length: 1.0
+
+
+------------------------ Paragraph # 24 -----------------------------
+
+# 24 : Apprixmate Word Count:  7
+# 24 : Apprixmate Sentence Count: 2
+# 24 : Average Letter Count: 4.6
+# 24 : Average Sentence Length: 3.5
+
+
+------------------------ Paragraph # 25 -----------------------------
+
+# 25 : Apprixmate Word Count:  33
+# 25 : Apprixmate Sentence Count: 4
+# 25 : Average Letter Count: 4.8
+# 25 : Average Sentence Length: 8.2
+
+
+------------------------ Paragraph # 26 -----------------------------
+
+# 26 : Apprixmate Word Count:  82
+# 26 : Apprixmate Sentence Count: 7
+# 26 : Average Letter Count: 4.8
+# 26 : Average Sentence Length: 11.7
+
+
+------------------------ Paragraph # 27 -----------------------------
+
+# 27 : Apprixmate Word Count:  133
+# 27 : Apprixmate Sentence Count: 9
+# 27 : Average Letter Count: 4.5
+# 27 : Average Sentence Length: 14.8
+
+
+------------------------ Paragraph # 28 -----------------------------
+
+# 28 : Apprixmate Word Count:  132
+# 28 : Apprixmate Sentence Count: 10
+# 28 : Average Letter Count: 4.7
+# 28 : Average Sentence Length: 13.2
+
+
+------------------------ Paragraph # 29 -----------------------------
+
+# 29 : Apprixmate Word Count:  50
+# 29 : Apprixmate Sentence Count: 2
+# 29 : Average Letter Count: 5.0
+# 29 : Average Sentence Length: 25.0
+
+
+------------------------ Paragraph # 30 -----------------------------
+
+# 30 : Apprixmate Word Count:  68
+# 30 : Apprixmate Sentence Count: 5
+# 30 : Average Letter Count: 4.6
+# 30 : Average Sentence Length: 13.6
+
+
+------------------------ Paragraph # 31 -----------------------------
+
+# 31 : Apprixmate Word Count:  50
+# 31 : Apprixmate Sentence Count: 2
+# 31 : Average Letter Count: 4.9
+# 31 : Average Sentence Length: 25.0
+
+
+------------------------ Paragraph # 32 -----------------------------
+
+# 32 : Apprixmate Word Count:  106
+# 32 : Apprixmate Sentence Count: 12
+# 32 : Average Letter Count: 4.4
+# 32 : Average Sentence Length: 8.8
+
+
+------------------------ Paragraph # 33 -----------------------------
+
+# 33 : Apprixmate Word Count:  30
+# 33 : Apprixmate Sentence Count: 3
+# 33 : Average Letter Count: 3.8
+# 33 : Average Sentence Length: 10.0
+
+
+------------------------ Paragraph # 34 -----------------------------
+
+# 34 : Apprixmate Word Count:  21
+# 34 : Apprixmate Sentence Count: 1
+# 34 : Average Letter Count: 3.8
+# 34 : Average Sentence Length: 21.0
+
+
+------------------------ Paragraph # 35 -----------------------------
+
+# 35 : Apprixmate Word Count:  5
+# 35 : Apprixmate Sentence Count: 2
+# 35 : Average Letter Count: 3.2
+# 35 : Average Sentence Length: 2.5
+
+
+------------------------ Paragraph # 36 -----------------------------
+
+# 36 : Apprixmate Word Count:  5
+# 36 : Apprixmate Sentence Count: 0
+# 36 : Average Letter Count: 4.8
+# 36 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 37 -----------------------------
+
+# 37 : Apprixmate Word Count:  4
+# 37 : Apprixmate Sentence Count: 1
+# 37 : Average Letter Count: 4.8
+# 37 : Average Sentence Length: 4.0
+
+
+------------------------ Paragraph # 38 -----------------------------
+
+# 38 : Apprixmate Word Count:  8
+# 38 : Apprixmate Sentence Count: 2
+# 38 : Average Letter Count: 4.5
+# 38 : Average Sentence Length: 4.0
+
+
+------------------------ Paragraph # 39 -----------------------------
+
+# 39 : Apprixmate Word Count:  23
+# 39 : Apprixmate Sentence Count: 5
+# 39 : Average Letter Count: 4.3
+# 39 : Average Sentence Length: 4.6
+
+
+------------------------ Paragraph # 40 -----------------------------
+
+# 40 : Apprixmate Word Count:  15
+# 40 : Apprixmate Sentence Count: 3
+# 40 : Average Letter Count: 4.7
+# 40 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 41 -----------------------------
+
+# 41 : Apprixmate Word Count:  48
+# 41 : Apprixmate Sentence Count: 4
+# 41 : Average Letter Count: 4.1
+# 41 : Average Sentence Length: 12.0
+
+
+------------------------ Paragraph # 42 -----------------------------
+
+# 42 : Apprixmate Word Count:  7
+# 42 : Apprixmate Sentence Count: 1
+# 42 : Average Letter Count: 4.0
+# 42 : Average Sentence Length: 7.0
+
+
+------------------------ Paragraph # 43 -----------------------------
+
+# 43 : Apprixmate Word Count:  7
+# 43 : Apprixmate Sentence Count: 1
+# 43 : Average Letter Count: 4.0
+# 43 : Average Sentence Length: 7.0
+
+
+------------------------ Paragraph # 44 -----------------------------
+
+# 44 : Apprixmate Word Count:  80
+# 44 : Apprixmate Sentence Count: 4
+# 44 : Average Letter Count: 4.3
+# 44 : Average Sentence Length: 20.0
+
+
+------------------------ Paragraph # 45 -----------------------------
+
+# 45 : Apprixmate Word Count:  119
+# 45 : Apprixmate Sentence Count: 6
+# 45 : Average Letter Count: 4.6
+# 45 : Average Sentence Length: 19.8
+
+
+------------------------ Paragraph # 46 -----------------------------
+
+# 46 : Apprixmate Word Count:  120
+# 46 : Apprixmate Sentence Count: 7
+# 46 : Average Letter Count: 4.8
+# 46 : Average Sentence Length: 17.1
+
+
+------------------------ Paragraph # 47 -----------------------------
+
+# 47 : Apprixmate Word Count:  119
+# 47 : Apprixmate Sentence Count: 11
+# 47 : Average Letter Count: 4.7
+# 47 : Average Sentence Length: 10.8
+
+
+------------------------ Paragraph # 48 -----------------------------
+
+# 48 : Apprixmate Word Count:  31
+# 48 : Apprixmate Sentence Count: 3
+# 48 : Average Letter Count: 4.4
+# 48 : Average Sentence Length: 10.3
+
+
+------------------------ Paragraph # 49 -----------------------------
+
+# 49 : Apprixmate Word Count:  91
+# 49 : Apprixmate Sentence Count: 8
+# 49 : Average Letter Count: 4.2
+# 49 : Average Sentence Length: 11.4
+
+
+------------------------ Paragraph # 50 -----------------------------
+
+# 50 : Apprixmate Word Count:  27
+# 50 : Apprixmate Sentence Count: 4
+# 50 : Average Letter Count: 4.3
+# 50 : Average Sentence Length: 6.8
+
+
+------------------------ Paragraph # 51 -----------------------------
+
+# 51 : Apprixmate Word Count:  62
+# 51 : Apprixmate Sentence Count: 6
+# 51 : Average Letter Count: 4.1
+# 51 : Average Sentence Length: 10.3
+
+
+------------------------ Paragraph # 52 -----------------------------
+
+# 52 : Apprixmate Word Count:  8
+# 52 : Apprixmate Sentence Count: 2
+# 52 : Average Letter Count: 4.2
+# 52 : Average Sentence Length: 4.0
+
+
+------------------------ Paragraph # 53 -----------------------------
+
+# 53 : Apprixmate Word Count:  4
+# 53 : Apprixmate Sentence Count: 1
+# 53 : Average Letter Count: 3.8
+# 53 : Average Sentence Length: 4.0
+
+
+------------------------ Paragraph # 54 -----------------------------
+
+# 54 : Apprixmate Word Count:  119
+# 54 : Apprixmate Sentence Count: 12
+# 54 : Average Letter Count: 4.5
+# 54 : Average Sentence Length: 9.9
+
+
+------------------------ Paragraph # 55 -----------------------------
+
+# 55 : Apprixmate Word Count:  45
+# 55 : Apprixmate Sentence Count: 7
+# 55 : Average Letter Count: 4.9
+# 55 : Average Sentence Length: 6.4
+
+
+------------------------ Paragraph # 56 -----------------------------
+
+# 56 : Apprixmate Word Count:  41
+# 56 : Apprixmate Sentence Count: 3
+# 56 : Average Letter Count: 3.6
+# 56 : Average Sentence Length: 13.7
+
+
+------------------------ Paragraph # 57 -----------------------------
+
+# 57 : Apprixmate Word Count:  145
+# 57 : Apprixmate Sentence Count: 8
+# 57 : Average Letter Count: 4.3
+# 57 : Average Sentence Length: 18.1
+
+
+------------------------ Paragraph # 58 -----------------------------
+
+# 58 : Apprixmate Word Count:  13
+# 58 : Apprixmate Sentence Count: 2
+# 58 : Average Letter Count: 4.0
+# 58 : Average Sentence Length: 6.5
+
+
+------------------------ Paragraph # 59 -----------------------------
+
+# 59 : Apprixmate Word Count:  25
+# 59 : Apprixmate Sentence Count: 3
+# 59 : Average Letter Count: 4.7
+# 59 : Average Sentence Length: 8.3
+
+
+------------------------ Paragraph # 60 -----------------------------
+
+# 60 : Apprixmate Word Count:  3
+# 60 : Apprixmate Sentence Count: 1
+# 60 : Average Letter Count: 5.7
+# 60 : Average Sentence Length: 3.0
+
+
+------------------------ Paragraph # 61 -----------------------------
+
+# 61 : Apprixmate Word Count:  11
+# 61 : Apprixmate Sentence Count: 3
+# 61 : Average Letter Count: 4.2
+# 61 : Average Sentence Length: 3.7
+
+
+------------------------ Paragraph # 62 -----------------------------
+
+# 62 : Apprixmate Word Count:  39
+# 62 : Apprixmate Sentence Count: 2
+# 62 : Average Letter Count: 4.5
+# 62 : Average Sentence Length: 19.5
+
+
+------------------------ Paragraph # 63 -----------------------------
+
+# 63 : Apprixmate Word Count:  68
+# 63 : Apprixmate Sentence Count: 7
+# 63 : Average Letter Count: 4.7
+# 63 : Average Sentence Length: 9.7
+
+
+------------------------ Paragraph # 64 -----------------------------
+
+# 64 : Apprixmate Word Count:  14
+# 64 : Apprixmate Sentence Count: 3
+# 64 : Average Letter Count: 4.6
+# 64 : Average Sentence Length: 4.7
+
+
+------------------------ Paragraph # 65 -----------------------------
+
+# 65 : Apprixmate Word Count:  72
+# 65 : Apprixmate Sentence Count: 6
+# 65 : Average Letter Count: 4.7
+# 65 : Average Sentence Length: 12.0
+
+
+------------------------ Paragraph # 66 -----------------------------
+
+# 66 : Apprixmate Word Count:  13
+# 66 : Apprixmate Sentence Count: 2
+# 66 : Average Letter Count: 4.6
+# 66 : Average Sentence Length: 6.5
+
+
+------------------------ Paragraph # 67 -----------------------------
+
+# 67 : Apprixmate Word Count:  94
+# 67 : Apprixmate Sentence Count: 6
+# 67 : Average Letter Count: 4.7
+# 67 : Average Sentence Length: 15.7
+
+
+------------------------ Paragraph # 68 -----------------------------
+
+# 68 : Apprixmate Word Count:  69
+# 68 : Apprixmate Sentence Count: 3
+# 68 : Average Letter Count: 4.2
+# 68 : Average Sentence Length: 23.0
+
+
+------------------------ Paragraph # 69 -----------------------------
+
+# 69 : Apprixmate Word Count:  27
+# 69 : Apprixmate Sentence Count: 5
+# 69 : Average Letter Count: 4.2
+# 69 : Average Sentence Length: 5.4
+
+
+------------------------ Paragraph # 70 -----------------------------
+
+# 70 : Apprixmate Word Count:  80
+# 70 : Apprixmate Sentence Count: 9
+# 70 : Average Letter Count: 4.3
+# 70 : Average Sentence Length: 8.9
+
+
+------------------------ Paragraph # 71 -----------------------------
+
+# 71 : Apprixmate Word Count:  52
+# 71 : Apprixmate Sentence Count: 4
+# 71 : Average Letter Count: 3.9
+# 71 : Average Sentence Length: 13.0
+
+
+------------------------ Paragraph # 72 -----------------------------
+
+# 72 : Apprixmate Word Count:  33
+# 72 : Apprixmate Sentence Count: 4
+# 72 : Average Letter Count: 3.9
+# 72 : Average Sentence Length: 8.2
+
+
+------------------------ Paragraph # 73 -----------------------------
+
+# 73 : Apprixmate Word Count:  1
+# 73 : Apprixmate Sentence Count: 0
+# 73 : Average Letter Count: 5.0
+# 73 : Average Sentence Length: 1.0
+
+
+------------------------ Paragraph # 74 -----------------------------
+
+# 74 : Apprixmate Word Count:  63
+# 74 : Apprixmate Sentence Count: 4
+# 74 : Average Letter Count: 3.8
+# 74 : Average Sentence Length: 15.8
+
+
+------------------------ Paragraph # 75 -----------------------------
+
+# 75 : Apprixmate Word Count:  73
+# 75 : Apprixmate Sentence Count: 5
+# 75 : Average Letter Count: 4.5
+# 75 : Average Sentence Length: 14.6
+
+
+------------------------ Paragraph # 76 -----------------------------
+
+# 76 : Apprixmate Word Count:  118
+# 76 : Apprixmate Sentence Count: 6
+# 76 : Average Letter Count: 4.8
+# 76 : Average Sentence Length: 19.7
+
+
+------------------------ Paragraph # 77 -----------------------------
+
+# 77 : Apprixmate Word Count:  130
+# 77 : Apprixmate Sentence Count: 7
+# 77 : Average Letter Count: 4.9
+# 77 : Average Sentence Length: 18.6
+
+
+------------------------ Paragraph # 78 -----------------------------
+
+# 78 : Apprixmate Word Count:  56
+# 78 : Apprixmate Sentence Count: 3
+# 78 : Average Letter Count: 4.7
+# 78 : Average Sentence Length: 18.7
+
+
+------------------------ Paragraph # 79 -----------------------------
+
+# 79 : Apprixmate Word Count:  19
+# 79 : Apprixmate Sentence Count: 1
+# 79 : Average Letter Count: 4.1
+# 79 : Average Sentence Length: 19.0
+
+
+------------------------ Paragraph # 80 -----------------------------
+
+# 80 : Apprixmate Word Count:  118
+# 80 : Apprixmate Sentence Count: 5
+# 80 : Average Letter Count: 4.6
+# 80 : Average Sentence Length: 23.6
+
+
+------------------------ Paragraph # 81 -----------------------------
+
+# 81 : Apprixmate Word Count:  73
+# 81 : Apprixmate Sentence Count: 8
+# 81 : Average Letter Count: 4.7
+# 81 : Average Sentence Length: 9.1
+
+
+------------------------ Paragraph # 82 -----------------------------
+
+# 82 : Apprixmate Word Count:  72
+# 82 : Apprixmate Sentence Count: 5
+# 82 : Average Letter Count: 4.2
+# 82 : Average Sentence Length: 14.4
+
+
+------------------------ Paragraph # 83 -----------------------------
+
+# 83 : Apprixmate Word Count:  38
+# 83 : Apprixmate Sentence Count: 3
+# 83 : Average Letter Count: 4.8
+# 83 : Average Sentence Length: 12.7
+
+
+------------------------ Paragraph # 84 -----------------------------
+
+# 84 : Apprixmate Word Count:  75
+# 84 : Apprixmate Sentence Count: 4
+# 84 : Average Letter Count: 4.5
+# 84 : Average Sentence Length: 18.8
+
+
+------------------------ Paragraph # 85 -----------------------------
+
+# 85 : Apprixmate Word Count:  76
+# 85 : Apprixmate Sentence Count: 3
+# 85 : Average Letter Count: 4.7
+# 85 : Average Sentence Length: 25.3
+
+
+------------------------ Paragraph # 86 -----------------------------
+
+# 86 : Apprixmate Word Count:  83
+# 86 : Apprixmate Sentence Count: 7
+# 86 : Average Letter Count: 5.2
+# 86 : Average Sentence Length: 11.9
+
+
+------------------------ Paragraph # 87 -----------------------------
+
+# 87 : Apprixmate Word Count:  129
+# 87 : Apprixmate Sentence Count: 7
+# 87 : Average Letter Count: 4.6
+# 87 : Average Sentence Length: 18.4
+
+
+------------------------ Paragraph # 88 -----------------------------
+
+# 88 : Apprixmate Word Count:  125
+# 88 : Apprixmate Sentence Count: 8
+# 88 : Average Letter Count: 5.0
+# 88 : Average Sentence Length: 15.6
+
+
+------------------------ Paragraph # 89 -----------------------------
+
+# 89 : Apprixmate Word Count:  91
+# 89 : Apprixmate Sentence Count: 7
+# 89 : Average Letter Count: 4.8
+# 89 : Average Sentence Length: 13.0
+
+
+------------------------ Paragraph # 90 -----------------------------
+
+# 90 : Apprixmate Word Count:  72
+# 90 : Apprixmate Sentence Count: 3
+# 90 : Average Letter Count: 4.7
+# 90 : Average Sentence Length: 24.0
+
+
+------------------------ Paragraph # 91 -----------------------------
+
+# 91 : Apprixmate Word Count:  51
+# 91 : Apprixmate Sentence Count: 3
+# 91 : Average Letter Count: 5.1
+# 91 : Average Sentence Length: 17.0
+
+
+------------------------ Paragraph # 92 -----------------------------
+
+# 92 : Apprixmate Word Count:  54
+# 92 : Apprixmate Sentence Count: 4
+# 92 : Average Letter Count: 4.3
+# 92 : Average Sentence Length: 13.5
+
+
+------------------------ Paragraph # 93 -----------------------------
+
+# 93 : Apprixmate Word Count:  151
+# 93 : Apprixmate Sentence Count: 16
+# 93 : Average Letter Count: 4.4
+# 93 : Average Sentence Length: 9.4
+
+
+------------------------ Paragraph # 94 -----------------------------
+
+# 94 : Apprixmate Word Count:  77
+# 94 : Apprixmate Sentence Count: 3
+# 94 : Average Letter Count: 4.4
+# 94 : Average Sentence Length: 25.7
+
+
+------------------------ Paragraph # 95 -----------------------------
+
+# 95 : Apprixmate Word Count:  126
+# 95 : Apprixmate Sentence Count: 7
+# 95 : Average Letter Count: 4.6
+# 95 : Average Sentence Length: 18.0
+
+
+------------------------ Paragraph # 96 -----------------------------
+
+# 96 : Apprixmate Word Count:  75
+# 96 : Apprixmate Sentence Count: 7
+# 96 : Average Letter Count: 4.3
+# 96 : Average Sentence Length: 10.7
+
+
+------------------------ Paragraph # 97 -----------------------------
+
+# 97 : Apprixmate Word Count:  126
+# 97 : Apprixmate Sentence Count: 7
+# 97 : Average Letter Count: 4.4
+# 97 : Average Sentence Length: 18.0
+
+
+------------------------ Paragraph # 98 -----------------------------
+
+# 98 : Apprixmate Word Count:  79
+# 98 : Apprixmate Sentence Count: 4
+# 98 : Average Letter Count: 4.2
+# 98 : Average Sentence Length: 19.8
+
+
+------------------------ Paragraph # 99 -----------------------------
+
+# 99 : Apprixmate Word Count:  55
+# 99 : Apprixmate Sentence Count: 3
+# 99 : Average Letter Count: 4.3
+# 99 : Average Sentence Length: 18.3
+
+
+------------------------ Paragraph # 100 -----------------------------
+
+# 100 : Apprixmate Word Count:  51
+# 100 : Apprixmate Sentence Count: 7
+# 100 : Average Letter Count: 4.2
+# 100 : Average Sentence Length: 7.3
+
+
+------------------------ Paragraph # 101 -----------------------------
+
+# 101 : Apprixmate Word Count:  109
+# 101 : Apprixmate Sentence Count: 7
+# 101 : Average Letter Count: 4.4
+# 101 : Average Sentence Length: 15.6
+
+
+------------------------ Paragraph # 102 -----------------------------
+
+# 102 : Apprixmate Word Count:  95
+# 102 : Apprixmate Sentence Count: 6
+# 102 : Average Letter Count: 4.8
+# 102 : Average Sentence Length: 15.8
+
+
+------------------------ Paragraph # 103 -----------------------------
+
+# 103 : Apprixmate Word Count:  19
+# 103 : Apprixmate Sentence Count: 1
+# 103 : Average Letter Count: 4.2
+# 103 : Average Sentence Length: 19.0
+
+
+------------------------ Paragraph # 104 -----------------------------
+
+# 104 : Apprixmate Word Count:  7
+# 104 : Apprixmate Sentence Count: 1
+# 104 : Average Letter Count: 4.4
+# 104 : Average Sentence Length: 7.0
+
+
+------------------------ Paragraph # 105 -----------------------------
+
+# 105 : Apprixmate Word Count:  12
+# 105 : Apprixmate Sentence Count: 1
+# 105 : Average Letter Count: 3.7
+# 105 : Average Sentence Length: 12.0
+
+
+------------------------ Paragraph # 106 -----------------------------
+
+# 106 : Apprixmate Word Count:  9
+# 106 : Apprixmate Sentence Count: 3
+# 106 : Average Letter Count: 4.9
+# 106 : Average Sentence Length: 3.0
+
+
+------------------------ Paragraph # 107 -----------------------------
+
+# 107 : Apprixmate Word Count:  88
+# 107 : Apprixmate Sentence Count: 7
+# 107 : Average Letter Count: 4.2
+# 107 : Average Sentence Length: 12.6
+
+
+------------------------ Paragraph # 108 -----------------------------
+
+# 108 : Apprixmate Word Count:  54
+# 108 : Apprixmate Sentence Count: 5
+# 108 : Average Letter Count: 4.3
+# 108 : Average Sentence Length: 10.8
+
+
+------------------------ Paragraph # 109 -----------------------------
+
+# 109 : Apprixmate Word Count:  89
+# 109 : Apprixmate Sentence Count: 10
+# 109 : Average Letter Count: 4.4
+# 109 : Average Sentence Length: 8.9
+
+
+------------------------ Paragraph # 110 -----------------------------
+
+# 110 : Apprixmate Word Count:  9
+# 110 : Apprixmate Sentence Count: 1
+# 110 : Average Letter Count: 3.6
+# 110 : Average Sentence Length: 9.0
+
+
+------------------------ Paragraph # 111 -----------------------------
+
+# 111 : Apprixmate Word Count:  5
+# 111 : Apprixmate Sentence Count: 1
+# 111 : Average Letter Count: 3.4
+# 111 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 112 -----------------------------
+
+# 112 : Apprixmate Word Count:  27
+# 112 : Apprixmate Sentence Count: 3
+# 112 : Average Letter Count: 4.3
+# 112 : Average Sentence Length: 9.0
+
+
+------------------------ Paragraph # 113 -----------------------------
+
+# 113 : Apprixmate Word Count:  93
+# 113 : Apprixmate Sentence Count: 6
+# 113 : Average Letter Count: 5.1
+# 113 : Average Sentence Length: 15.5
+
+
+------------------------ Paragraph # 114 -----------------------------
+
+# 114 : Apprixmate Word Count:  86
+# 114 : Apprixmate Sentence Count: 5
+# 114 : Average Letter Count: 4.6
+# 114 : Average Sentence Length: 17.2
+
+
+------------------------ Paragraph # 115 -----------------------------
+
+# 115 : Apprixmate Word Count:  48
+# 115 : Apprixmate Sentence Count: 6
+# 115 : Average Letter Count: 4.1
+# 115 : Average Sentence Length: 8.0
+
+
+------------------------ Paragraph # 116 -----------------------------
+
+# 116 : Apprixmate Word Count:  12
+# 116 : Apprixmate Sentence Count: 1
+# 116 : Average Letter Count: 4.1
+# 116 : Average Sentence Length: 12.0
+
+
+------------------------ Paragraph # 117 -----------------------------
+
+# 117 : Apprixmate Word Count:  19
+# 117 : Apprixmate Sentence Count: 3
+# 117 : Average Letter Count: 4.1
+# 117 : Average Sentence Length: 6.3
+
+
+------------------------ Paragraph # 118 -----------------------------
+
+# 118 : Apprixmate Word Count:  13
+# 118 : Apprixmate Sentence Count: 2
+# 118 : Average Letter Count: 4.5
+# 118 : Average Sentence Length: 6.5
+
+
+------------------------ Paragraph # 119 -----------------------------
+
+# 119 : Apprixmate Word Count:  8
+# 119 : Apprixmate Sentence Count: 2
+# 119 : Average Letter Count: 4.0
+# 119 : Average Sentence Length: 4.0
+
+
+------------------------ Paragraph # 120 -----------------------------
+
+# 120 : Apprixmate Word Count:  21
+# 120 : Apprixmate Sentence Count: 3
+# 120 : Average Letter Count: 4.0
+# 120 : Average Sentence Length: 7.0
+
+
+------------------------ Paragraph # 121 -----------------------------
+
+# 121 : Apprixmate Word Count:  152
+# 121 : Apprixmate Sentence Count: 6
+# 121 : Average Letter Count: 4.4
+# 121 : Average Sentence Length: 25.3
+
+
+------------------------ Paragraph # 122 -----------------------------
+
+# 122 : Apprixmate Word Count:  49
+# 122 : Apprixmate Sentence Count: 2
+# 122 : Average Letter Count: 4.6
+# 122 : Average Sentence Length: 24.5
+
+
+------------------------ Paragraph # 123 -----------------------------
+
+# 123 : Apprixmate Word Count:  162
+# 123 : Apprixmate Sentence Count: 8
+# 123 : Average Letter Count: 4.5
+# 123 : Average Sentence Length: 20.2
+
+
+------------------------ Paragraph # 124 -----------------------------
+
+# 124 : Apprixmate Word Count:  117
+# 124 : Apprixmate Sentence Count: 8
+# 124 : Average Letter Count: 4.8
+# 124 : Average Sentence Length: 14.6
+
+
+------------------------ Paragraph # 125 -----------------------------
+
+# 125 : Apprixmate Word Count:  126
+# 125 : Apprixmate Sentence Count: 7
+# 125 : Average Letter Count: 4.4
+# 125 : Average Sentence Length: 18.0
+
+
+------------------------ Paragraph # 126 -----------------------------
+
+# 126 : Apprixmate Word Count:  31
+# 126 : Apprixmate Sentence Count: 3
+# 126 : Average Letter Count: 4.5
+# 126 : Average Sentence Length: 10.3
+
+
+------------------------ Paragraph # 127 -----------------------------
+
+# 127 : Apprixmate Word Count:  9
+# 127 : Apprixmate Sentence Count: 1
+# 127 : Average Letter Count: 4.1
+# 127 : Average Sentence Length: 9.0
+
+
+------------------------ Paragraph # 128 -----------------------------
+
+# 128 : Apprixmate Word Count:  6
+# 128 : Apprixmate Sentence Count: 1
+# 128 : Average Letter Count: 4.3
+# 128 : Average Sentence Length: 6.0
+
+
+------------------------ Paragraph # 129 -----------------------------
+
+# 129 : Apprixmate Word Count:  15
+# 129 : Apprixmate Sentence Count: 3
+# 129 : Average Letter Count: 4.7
+# 129 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 130 -----------------------------
+
+# 130 : Apprixmate Word Count:  15
+# 130 : Apprixmate Sentence Count: 1
+# 130 : Average Letter Count: 4.3
+# 130 : Average Sentence Length: 15.0
+
+
+------------------------ Paragraph # 131 -----------------------------
+
+# 131 : Apprixmate Word Count:  15
+# 131 : Apprixmate Sentence Count: 2
+# 131 : Average Letter Count: 3.5
+# 131 : Average Sentence Length: 7.5
+
+
+------------------------ Paragraph # 132 -----------------------------
+
+# 132 : Apprixmate Word Count:  26
+# 132 : Apprixmate Sentence Count: 2
+# 132 : Average Letter Count: 4.2
+# 132 : Average Sentence Length: 13.0
+
+
+------------------------ Paragraph # 133 -----------------------------
+
+# 133 : Apprixmate Word Count:  27
+# 133 : Apprixmate Sentence Count: 5
+# 133 : Average Letter Count: 4.7
+# 133 : Average Sentence Length: 5.4
+
+
+------------------------ Paragraph # 134 -----------------------------
+
+# 134 : Apprixmate Word Count:  80
+# 134 : Apprixmate Sentence Count: 6
+# 134 : Average Letter Count: 4.6
+# 134 : Average Sentence Length: 13.3
+
+
+------------------------ Paragraph # 135 -----------------------------
+
+# 135 : Apprixmate Word Count:  38
+# 135 : Apprixmate Sentence Count: 4
+# 135 : Average Letter Count: 4.2
+# 135 : Average Sentence Length: 9.5
+
+
+------------------------ Paragraph # 136 -----------------------------
+
+# 136 : Apprixmate Word Count:  73
+# 136 : Apprixmate Sentence Count: 5
+# 136 : Average Letter Count: 4.1
+# 136 : Average Sentence Length: 14.6
+
+
+------------------------ Paragraph # 137 -----------------------------
+
+# 137 : Apprixmate Word Count:  22
+# 137 : Apprixmate Sentence Count: 2
+# 137 : Average Letter Count: 4.0
+# 137 : Average Sentence Length: 11.0
+
+
+------------------------ Paragraph # 138 -----------------------------
+
+# 138 : Apprixmate Word Count:  22
+# 138 : Apprixmate Sentence Count: 3
+# 138 : Average Letter Count: 4.5
+# 138 : Average Sentence Length: 7.3
+
+
+------------------------ Paragraph # 139 -----------------------------
+
+# 139 : Apprixmate Word Count:  14
+# 139 : Apprixmate Sentence Count: 1
+# 139 : Average Letter Count: 3.2
+# 139 : Average Sentence Length: 14.0
+
+
+------------------------ Paragraph # 140 -----------------------------
+
+# 140 : Apprixmate Word Count:  32
+# 140 : Apprixmate Sentence Count: 5
+# 140 : Average Letter Count: 3.9
+# 140 : Average Sentence Length: 6.4
+
+
+------------------------ Paragraph # 141 -----------------------------
+
+# 141 : Apprixmate Word Count:  13
+# 141 : Apprixmate Sentence Count: 2
+# 141 : Average Letter Count: 5.0
+# 141 : Average Sentence Length: 6.5
+
+
+------------------------ Paragraph # 142 -----------------------------
+
+# 142 : Apprixmate Word Count:  105
+# 142 : Apprixmate Sentence Count: 10
+# 142 : Average Letter Count: 4.7
+# 142 : Average Sentence Length: 10.5
+
+
+------------------------ Paragraph # 143 -----------------------------
+
+# 143 : Apprixmate Word Count:  55
+# 143 : Apprixmate Sentence Count: 3
+# 143 : Average Letter Count: 4.4
+# 143 : Average Sentence Length: 18.3
+
+
+------------------------ Paragraph # 144 -----------------------------
+
+# 144 : Apprixmate Word Count:  99
+# 144 : Apprixmate Sentence Count: 4
+# 144 : Average Letter Count: 4.5
+# 144 : Average Sentence Length: 24.8
+
+
+------------------------ Paragraph # 145 -----------------------------
+
+# 145 : Apprixmate Word Count:  20
+# 145 : Apprixmate Sentence Count: 3
+# 145 : Average Letter Count: 5.2
+# 145 : Average Sentence Length: 6.7
+
+
+------------------------ Paragraph # 146 -----------------------------
+
+# 146 : Apprixmate Word Count:  66
+# 146 : Apprixmate Sentence Count: 3
+# 146 : Average Letter Count: 4.6
+# 146 : Average Sentence Length: 22.0
+
+
+------------------------ Paragraph # 147 -----------------------------
+
+# 147 : Apprixmate Word Count:  5
+# 147 : Apprixmate Sentence Count: 1
+# 147 : Average Letter Count: 4.0
+# 147 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 148 -----------------------------
+
+# 148 : Apprixmate Word Count:  23
+# 148 : Apprixmate Sentence Count: 3
+# 148 : Average Letter Count: 4.2
+# 148 : Average Sentence Length: 7.7
+
+
+------------------------ Paragraph # 149 -----------------------------
+
+# 149 : Apprixmate Word Count:  12
+# 149 : Apprixmate Sentence Count: 2
+# 149 : Average Letter Count: 5.0
+# 149 : Average Sentence Length: 6.0
+
+
+------------------------ Paragraph # 150 -----------------------------
+
+# 150 : Apprixmate Word Count:  15
+# 150 : Apprixmate Sentence Count: 2
+# 150 : Average Letter Count: 5.1
+# 150 : Average Sentence Length: 7.5
+
+
+------------------------ Paragraph # 151 -----------------------------
+
+# 151 : Apprixmate Word Count:  5
+# 151 : Apprixmate Sentence Count: 2
+# 151 : Average Letter Count: 3.2
+# 151 : Average Sentence Length: 2.5
+
+
+------------------------ Paragraph # 152 -----------------------------
+
+# 152 : Apprixmate Word Count:  40
+# 152 : Apprixmate Sentence Count: 7
+# 152 : Average Letter Count: 4.0
+# 152 : Average Sentence Length: 5.7
+
+
+------------------------ Paragraph # 153 -----------------------------
+
+# 153 : Apprixmate Word Count:  31
+# 153 : Apprixmate Sentence Count: 5
+# 153 : Average Letter Count: 4.6
+# 153 : Average Sentence Length: 6.2
+
+
+------------------------ Paragraph # 154 -----------------------------
+
+# 154 : Apprixmate Word Count:  26
+# 154 : Apprixmate Sentence Count: 4
+# 154 : Average Letter Count: 4.5
+# 154 : Average Sentence Length: 6.5
+
+
+------------------------ Paragraph # 155 -----------------------------
+
+# 155 : Apprixmate Word Count:  42
+# 155 : Apprixmate Sentence Count: 3
+# 155 : Average Letter Count: 5.2
+# 155 : Average Sentence Length: 14.0
+
+
+------------------------ Paragraph # 156 -----------------------------
+
+# 156 : Apprixmate Word Count:  40
+# 156 : Apprixmate Sentence Count: 3
+# 156 : Average Letter Count: 5.0
+# 156 : Average Sentence Length: 13.3
+
+
+------------------------ Paragraph # 157 -----------------------------
+
+# 157 : Apprixmate Word Count:  9
+# 157 : Apprixmate Sentence Count: 1
+# 157 : Average Letter Count: 4.9
+# 157 : Average Sentence Length: 9.0
+
+
+------------------------ Paragraph # 158 -----------------------------
+
+# 158 : Apprixmate Word Count:  15
+# 158 : Apprixmate Sentence Count: 3
+# 158 : Average Letter Count: 4.1
+# 158 : Average Sentence Length: 5.0
+
+
+------------------------ Paragraph # 159 -----------------------------
+
+# 159 : Apprixmate Word Count:  13
+# 159 : Apprixmate Sentence Count: 1
+# 159 : Average Letter Count: 4.8
+# 159 : Average Sentence Length: 13.0
+
+
+------------------------ Paragraph # 160 -----------------------------
+
+# 160 : Apprixmate Word Count:  141
+# 160 : Apprixmate Sentence Count: 6
+# 160 : Average Letter Count: 4.6
+# 160 : Average Sentence Length: 23.5
+
+
+------------------------ Paragraph # 161 -----------------------------
+
+# 161 : Apprixmate Word Count:  81
+# 161 : Apprixmate Sentence Count: 6
+# 161 : Average Letter Count: 5.0
+# 161 : Average Sentence Length: 13.5
+
+
+------------------------ Paragraph # 162 -----------------------------
+
+# 162 : Apprixmate Word Count:  49
+# 162 : Apprixmate Sentence Count: 7
+# 162 : Average Letter Count: 5.0
+# 162 : Average Sentence Length: 7.0
+
+
+------------------------ Paragraph # 163 -----------------------------
+
+# 163 : Apprixmate Word Count:  118
+# 163 : Apprixmate Sentence Count: 7
+# 163 : Average Letter Count: 4.9
+# 163 : Average Sentence Length: 16.9
+
+
+------------------------ Paragraph # 164 -----------------------------
+
+# 164 : Apprixmate Word Count:  46
+# 164 : Apprixmate Sentence Count: 4
+# 164 : Average Letter Count: 4.3
+# 164 : Average Sentence Length: 11.5
+
+
+------------------------ Paragraph # 165 -----------------------------
+
+# 165 : Apprixmate Word Count:  101
+# 165 : Apprixmate Sentence Count: 8
+# 165 : Average Letter Count: 4.1
+# 165 : Average Sentence Length: 12.6
+
+
+------------------------ Paragraph # 166 -----------------------------
+
+# 166 : Apprixmate Word Count:  70
+# 166 : Apprixmate Sentence Count: 5
+# 166 : Average Letter Count: 4.7
+# 166 : Average Sentence Length: 14.0
+
+
+------------------------ Paragraph # 167 -----------------------------
+
+# 167 : Apprixmate Word Count:  68
+# 167 : Apprixmate Sentence Count: 6
+# 167 : Average Letter Count: 4.8
+# 167 : Average Sentence Length: 11.3
+
+
+------------------------ Paragraph # 168 -----------------------------
+
+# 168 : Apprixmate Word Count:  91
+# 168 : Apprixmate Sentence Count: 6
+# 168 : Average Letter Count: 4.6
+# 168 : Average Sentence Length: 15.2
+
+
+------------------------ Paragraph # 169 -----------------------------
+
+# 169 : Apprixmate Word Count:  195
+# 169 : Apprixmate Sentence Count: 14
+# 169 : Average Letter Count: 4.4
+# 169 : Average Sentence Length: 13.9
+
+
+------------------------ Paragraph # 170 -----------------------------
+
+# 170 : Apprixmate Word Count:  86
+# 170 : Apprixmate Sentence Count: 5
+# 170 : Average Letter Count: 4.6
+# 170 : Average Sentence Length: 17.2
+
+
+------------------------ Paragraph # 171 -----------------------------
+
+# 171 : Apprixmate Word Count:  37
+# 171 : Apprixmate Sentence Count: 3
+# 171 : Average Letter Count: 4.4
+# 171 : Average Sentence Length: 12.3
+
+
+------------------------ Paragraph # 172 -----------------------------
+
+# 172 : Apprixmate Word Count:  89
+# 172 : Apprixmate Sentence Count: 6
+# 172 : Average Letter Count: 4.5
+# 172 : Average Sentence Length: 14.8
+
+
+------------------------ Paragraph # 173 -----------------------------
+
+# 173 : Apprixmate Word Count:  81
+# 173 : Apprixmate Sentence Count: 3
+# 173 : Average Letter Count: 4.6
+# 173 : Average Sentence Length: 27.0
+
+------------------------ TOTAL Report -------------------------------
+
+Total: Apprixmate Word Count: 9273
+Total: Approximate Letter Count:  42026
+
+------------------------ End of Report -------------------------------
+

@@ -1,0 +1,16 @@
+
+
+------------------------ Paragraph # 1 -----------------------------
+
+# 1 : Apprixmate Word Count:  120
+# 1 : Apprixmate Sentence Count: 5
+# 1 : Average Letter Count: 4.6
+# 1 : Average Sentence Length: 24.0
+
+------------------------ TOTAL Report -------------------------------
+
+Total: Apprixmate Word Count: 120
+Total: Approximate Letter Count:  550
+
+------------------------ End of Report -------------------------------
+
