@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>Latitutde-Summary</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <script async="" src="https://cdn.carbonads.com/carbon.js?serve=CKYIKKJL&amp;placement=getbootstrapcom" id="_carbonads_js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+
+<body class=bodyBGC> <!-- main body with specified background color-->
+  <div class="container-fluid">
+    <nav class=" navbar navbar-expand-lg navbar-light" >
+        <div class="container-fluid">
+          <a class="navbar-brand" href="summary.html" ><Strong>Latitude: Summary</Strong></a>
+        
+          <div class="navbar-nav navbar-right">
+            <ul  class="navbar-nav" >  
+                <li>
+                    <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Plots
+                        <span class="caret"></span></button> 
+                        <ul class="dropdown-menu">
+                            <a class="dropdown-item" href="Temperature.html">Temperature</a>
+                            <a class="dropdown-item" href="Humidity.html">Humidity</a>
+                            <a class="dropdown-item" href="Wind_Speed.html">Wind Speed</a>
+                            <a class="dropdown-item" href="Cloudiness.html">Cloudiness</a>
+                        </ul>
+                    </div>
+                </li>
+                
+              <li class="nav-item active">
+                <a class="nav-link" href="comparison.html">Comparison</a>
+              </li>
+                
+              <li class="nav-item active">
+                <a class="nav-link" href="data.html">Data</a>
+              </li>
+  
+            </ul>
+          </div> <!--navbar-nav navbar-right-->
+        </div> <!--container-fluid-->
+      </nav>
+    <div class="content">
+      <div class="container-fluid">
+        <div class= "row">
+          <div class= "col-sm-12 col-md-7 pop top">    <!-- left box -->
+            <div class="box">
+              <h3>Summary: Latitude vs. X</h3>
+              <hr>
+              <div id="summary_text">
+                <img id="landingimage" src="Images/Latitude_Temperature_Plot.png" alt="Temp vs Latitude" class=photos>
+                <p>
+                  The purpose of this project was to analyze how weather changes as you get closer to the equator. 
+                  To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities.
+                  <br><br>
+                  After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude. 
+                  Factors we looked at included: temperature, cloudiness, wind speed, and humidity. 
+                  This site provides the source data and visualizations created as part of the analysis, 
+                  as well as explanations and descriptions of any trends and correlations witnessed.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class= "col-sm-12 col-md-5 pop top">       <!-- Right box -->
+            <div class="box">
+            <!-- <div class= "summry_RBH"> summry right box head -->
+              <h3> Visualizations</h3>
+              <hr>
+              <div class="row">
+                  <div class="col-md-6 col-lg-6"> 
+                      <a target="blank" href="Temperature.html">
+                          <img src="Images/Latitude_Temperature_Plot.png" alt="vs. Temperature" class="photos"></a>
+                  </div>
+                  <div class="col-md-6 col-lg-6">
+                      <a target="blank" href="Humidity.html">
+                          <img src="Images/Latitude_Humidity_Plot.png" alt="vs. Humidity" class="photos"></a>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-6 col-lg-6">
+                      <a target="blank" href="Wind_Speed.html">
+                          <img src="Images/Latitude_WindSpeed_Plot.png" alt="vs. Humidity" class="photos"></a>
+                  </div>
+                  <div class="col-md-6 col-lg-6">
+                      <a target="blank" href="Cloudiness.html">
+                          <img src="Images/Latitude_Cloudiness_Plot.png" alt="vs. Humidity" class="photos"></a>
+                  </div>
+              </div>
+            </div> 
+          </div>
+        </div>
+          
+    </div>
+    <footer class = 'footer'>
+      <p> Kevin Beygi @ DataBootCamp 2019   </p>      
+    </footer>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</html>
